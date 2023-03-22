@@ -1,5 +1,5 @@
 <h1>Basics of Web Development Internship:</h1>
-	<p>In August-September of 2021, during my early year at university, I completed a web development basics internship at Immesense Interactive Solutions. Throughout the internship, I gained a very good understanding of HTML and CSS3, and began to learn server-side PHP.</p>
+	<p>In August-September of 2021, during my early year at university, I completed a web development basics internship at <a href="https://immesense.com/"> Immesense Interactive Solutions</a>. Throughout the internship, I gained a very good understanding of HTML and CSS3, and began to learn server-side PHP.</p>
   
   <p>As part of my internship, I created several pages which I have gathered in this repository. These projects include:</p>
   
